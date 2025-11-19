@@ -21,7 +21,7 @@ export const WellnessSection: React.FC = () => {
                 Chame agora
               </p>
               <a href="https://wa.me/5511940512450" target="_blank" rel="noopener noreferrer" className="text-[#E0AE2E] text-lg lg:text-xl font-normal hover:underline">
-                11 94051-2450
+                (11) 94051-2450
               </a>
             </div>
           </div>

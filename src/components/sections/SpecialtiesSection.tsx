@@ -35,8 +35,8 @@ export const SpecialtiesSection: React.FC = () => {
       icon: Sparkles
     },
     {
-      title: 'Plano 24/7 Premium',
-      description: 'Para clientes que precisam de suporte contínuo, oferecemos disponibilidade total em nosso plano mais completo.',
+      title: 'Disponibilidade Sob Agendamento',
+      description: 'Atendimento personalizado em São Paulo e região mediante agendamento prévio, garantindo dedicação total às suas necessidades. Plano 24/7 disponível no plano premium.',
       icon: Award
     }
   ];

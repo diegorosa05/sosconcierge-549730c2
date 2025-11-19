@@ -20,7 +20,7 @@ export const HeroSection: React.FC = () => {
               Resolvemos suas tarefas secundárias para que seu tempo se torne primário.
             </p>
             <h1 className="font-aboreto text-white text-center text-3xl md:text-4xl lg:text-5xl xl:text-6xl font-normal tracking-tight leading-tight">
-              Concierge premium, cuidamos de tudo para você focar no essencial.
+              Concierge Premium em São Paulo - Cuidamos de Tudo Para Você Focar no Essencial
             </h1>
           </div>
 

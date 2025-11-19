@@ -21,10 +21,10 @@ export const ServicesSection: React.FC = () => {
       <div className="flex w-full max-w-7xl flex-col items-start gap-8 lg:gap-12 animate-fade-in-up">
         <div className="flex flex-col items-start gap-4 lg:gap-6">
           <p className="text-black text-lg lg:text-xl font-light">
-            O que resolvemos por você (sob agendamento para melhor disponibilidade)
+            Atendemos sob agendamento em São Paulo e região para melhor disponibilidade
           </p>
           <h2 className="font-aboreto text-black text-2xl md:text-3xl lg:text-4xl font-normal tracking-tight">
-            Serviços e Soluções
+            Serviços de Concierge Premium
           </h2>
         </div>
         

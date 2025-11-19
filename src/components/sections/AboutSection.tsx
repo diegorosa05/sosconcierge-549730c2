@@ -19,10 +19,10 @@ export const AboutSection: React.FC = () => {
           
           <div className="flex flex-col gap-6">
             <p className="text-[#4C4C4C] text-base lg:text-lg font-light leading-relaxed">
-              Bem-vindo à Sunny Organization Solutions. Cuidamos do que consome seu tempo, agenda, burocracias, viagens, casa, família e experiências, para que você viva o essencial.
+              Bem-vindo à Sunny Organization Solutions, seu concierge premium em São Paulo e região. Cuidamos do que consome seu tempo - agenda, burocracias, casa, família e experiências - para que você viva o essencial.
             </p>
             <p className="text-[#4C4C4C] text-base lg:text-lg font-light leading-relaxed">
-              Na S.O.S, cada detalhe é planejado e executado com excelência, confidencialidade e acompanhamento dedicado.
+              Na S.O.S, cada detalhe é planejado e executado com excelência, confidencialidade e acompanhamento dedicado. Atendemos São Paulo, Paulista e toda a região metropolitana.
             </p>
           </div>
           
@@ -32,7 +32,7 @@ export const AboutSection: React.FC = () => {
                 Chame agora
               </p>
               <a href="https://wa.me/5511940512450" target="_blank" rel="noopener noreferrer" className="text-[#E0AE2E] text-lg lg:text-xl font-normal hover:underline">
-                11 94051-2450
+                (11) 94051-2450
               </a>
             </div>
           </div>
