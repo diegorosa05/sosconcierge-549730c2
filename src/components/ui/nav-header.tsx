@@ -37,6 +37,9 @@ function NavHeader() {
         <Tab setPosition={setPosition} href="#services" isScrolled={isScrolled}>
           Serviços
         </Tab>
+        <Tab setPosition={setPosition} href="#faq" isScrolled={isScrolled}>
+          FAQ
+        </Tab>
         <Tab setPosition={setPosition} href="#contact" isScrolled={isScrolled}>
           Contato
         </Tab>
